@@ -1,0 +1,9 @@
+.fun{
+    width: 200px;
+    height: 200px;
+    padding-left: 220px;
+    padding-bottom: 50px;
+    margin-left: 430px;
+    margin-top: 150px;
+    background-image: radial-gradient(red,pink,blue,orange);
+}
